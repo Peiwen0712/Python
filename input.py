@@ -18,3 +18,4 @@ if repeat == "no" :
     for name, response in response.item():
         print(f"{name} would like tp climb{response}.")
         
+    please
